@@ -2,7 +2,10 @@
 
 - 🔭 I’m currently working on Codon Technology at Nagpur.
   
-- 🌱 I’m currently learning Python and Data Analytics, focusing on performance optimization and competitive coding patterns.
+- 🌱 I’m currently learning Python and Data Analytics, focusing on performance optimization and competitive coding patterns.![Languages](https://skillicons.dev/icons?i=js,ts,py)
+- Frameworks   ![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,django)
+- Tools   ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux)
+
   
 - 👯 I’m looking to collaborate on open-source projects related to music tech, AI-driven recommendations, or clean, scalable front-end design systems.
   
